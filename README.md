@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-01 | daily | [Apple Addresses CoreGraphics Zero-Day Vulnerability Amid (+7 more)](issues/2026/2026-10-01.md) |
 | 2026-09-30 | daily | [New Spectre v2 Variant BTR Exposes CPUs to Data Leaks (+7 more)](issues/2026/2026-09-30.md) |
 | 2026-09-29 | daily | [Citrix NetScaler Zero-Day Exploitation Targets Multiple Sectors (+7 more)](issues/2026/2026-09-29.md) |
 <!-- issues:end -->
