@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-05 | daily | [Bitget Suffers $388M Hack Attributed to North Korean Lazarus Group (+7 more)](issues/2026/2026-10-05.md) |
+| 2026-10-05 | weekly | [Critical Citrix NetScaler Zero-Day Vulnerabilities… (+11 more)](issues/2026/weekly-2026-10-05.md) |
 | 2026-10-04 | daily | [Critical Authentication Bypass in Rejetto HFS Exploited Within 24… (+7 more)](issues/2026/2026-10-04.md) |
 | 2026-10-03 | daily | [Bitget Suffers $388 Million Hack Linked to North Korean Hackers (+6 more)](issues/2026/2026-10-03.md) |
 | 2026-10-02 | daily | [Citrix NetScaler Critical Vulnerabilities Exploited: Urgent Patching… (+5 more)](issues/2026/2026-10-02.md) |
