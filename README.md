@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-08 | daily | [PoeLLM Malware Compromises 3,400+ AI Servers for Cryptomining (+7 more)](issues/2026/2026-10-08.md) |
 | 2026-10-07 | daily | [GlassWorm Campaign Targets Developers with Malicious VS Code… (+1 more)](issues/2026/2026-10-07.md) |
 | 2026-10-06 | daily | [ZITADEL Identity Provider Vulnerabilities Expose Critical… (+7 more)](issues/2026/2026-10-06.md) |
 | 2026-10-05 | daily | [Bitget Suffers $388M Hack Attributed to North Korean Lazarus Group (+7 more)](issues/2026/2026-10-05.md) |
