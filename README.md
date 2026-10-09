@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-09 | daily | [Urgent CVE-2021-3199 Vulnerability in ONLYOFFICE Exploited in the Wild (+7 more)](issues/2026/2026-10-09.md) |
 | 2026-10-08 | daily | [PoeLLM Malware Compromises 3,400+ AI Servers for Cryptomining (+7 more)](issues/2026/2026-10-08.md) |
 | 2026-10-07 | daily | [GlassWorm Campaign Targets Developers with Malicious VS Code… (+1 more)](issues/2026/2026-10-07.md) |
 | 2026-10-06 | daily | [ZITADEL Identity Provider Vulnerabilities Expose Critical… (+7 more)](issues/2026/2026-10-06.md) |
