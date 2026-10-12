@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-12 | daily | [CISA Adds 7 Flaws to KEV Amid Active Exploitation by Flax Typhoon (+6 more)](issues/2026/2026-10-12.md) |
+| 2026-10-12 | weekly | [CISA Adds 7 Flaws to KEV Amid Active Exploitation by Flax… (+9 more)](issues/2026/weekly-2026-10-12.md) |
 | 2026-10-11 | daily | [FBI Seizes Domains and Tools Used by Chinese Hackers (+5 more)](issues/2026/2026-10-11.md) |
 | 2026-10-10 | daily | [Critical RCE Vulnerability in Cisco NX-API Disclosed (+6 more)](issues/2026/2026-10-10.md) |
 | 2026-10-09 | daily | [Urgent CVE-2021-3199 Vulnerability in ONLYOFFICE Exploited in the Wild (+7 more)](issues/2026/2026-10-09.md) |
