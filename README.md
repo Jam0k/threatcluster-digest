@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-13 | daily | [Two Turkish Nationals Arrested Over Russian Sabotage of Starlink… (+4 more)](issues/2026/2026-10-13.md) |
 | 2026-10-12 | daily | [CISA Adds 7 Flaws to KEV Amid Active Exploitation by Flax Typhoon (+6 more)](issues/2026/2026-10-12.md) |
 | 2026-10-12 | weekly | [CISA Adds 7 Flaws to KEV Amid Active Exploitation by Flax… (+9 more)](issues/2026/weekly-2026-10-12.md) |
 | 2026-10-11 | daily | [FBI Seizes Domains and Tools Used by Chinese Hackers (+5 more)](issues/2026/2026-10-11.md) |
