@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-19 | daily | [Palo Alto Networks Firewalls Exploited Amid AI Security Concerns (+5 more)](issues/2026/2026-10-19.md) |
+| 2026-10-19 | weekly | [AI-Driven Breach Exposes Data of 16 South Korean… (+8 more)](issues/2026/weekly-2026-10-19.md) |
 | 2026-10-18 | daily | [Discover-Tech's AdFection Scheme Delivers Candiru Spyware via Ads (+6 more)](issues/2026/2026-10-18.md) |
 | 2026-10-17 | daily | [PEERSTITCH Malware Compromises 500+ Firewalls via FortiManager… (+6 more)](issues/2026/2026-10-17.md) |
 | 2026-10-16 | daily | [Critical Zero-Day Exploit Found in BeyondTrust Remote Support (+7 more)](issues/2026/2026-10-16.md) |
