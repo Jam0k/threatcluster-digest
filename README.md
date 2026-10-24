@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-24 | daily | [Initia Chain Exploit Results in $2.6 Million Theft (+2 more)](issues/2026/2026-10-24.md) |
 | 2026-10-23 | daily | [Critical PHP Vulnerabilities Trigger Global Cybersecurity Alert (+7 more)](issues/2026/2026-10-23.md) |
 | 2026-10-22 | daily | [China-linked Storm-0940 Breaches ConnectWise Backup Service Using AI… (+7 more)](issues/2026/2026-10-22.md) |
 | 2026-10-21 | daily | [AI-Driven Cyber Espionage Campaigns Surge (+7 more)](issues/2026/2026-10-21.md) |
