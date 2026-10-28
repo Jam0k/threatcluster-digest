@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-28 | daily | [Critical Path Traversal Vulnerability in Google Cloud MCP Toolbox (+2 more)](issues/2026/2026-10-28.md) |
 | 2026-10-27 | daily | [Critical OS Command Injection Vulnerability Discovered in Vertiv… (+5 more)](issues/2026/2026-10-27.md) |
 | 2026-10-26 | daily | [Multiple Vulnerabilities Disclosed in Major Programming Languages (+4 more)](issues/2026/2026-10-26.md) |
 | 2026-10-26 | weekly | [Multiple Vulnerabilities Disclosed in Major Programming… (+5 more)](issues/2026/weekly-2026-10-26.md) |
