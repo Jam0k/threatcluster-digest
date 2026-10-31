@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-10-31 | daily | [Russian UAV Strikes Disrupt Kyiv's Water and Power Supply (+7 more)](issues/2026/2026-10-31.md) |
 | 2026-10-30 | daily | [Critical Vulnerabilities in Progress WS_FTP Server Disclosed (+5 more)](issues/2026/2026-10-30.md) |
 | 2026-10-29 | daily | [Critical Path Traversal Vulnerability in FearlessCMS Disclosed (+7 more)](issues/2026/2026-10-29.md) |
 | 2026-10-28 | daily | [Critical Path Traversal Vulnerability in Google Cloud MCP Toolbox (+2 more)](issues/2026/2026-10-28.md) |
