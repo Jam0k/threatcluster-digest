@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-02 | daily | [Binance Hit by $6.3 Billion Cyberattack Linked to North Korea (+6 more)](issues/2026/2026-11-02.md) |
+| 2026-11-02 | weekly | [Binance Suffers $6.3 Billion Cyberattack Linked to North… (+8 more)](issues/2026/weekly-2026-11-02.md) |
 | 2026-11-01 | daily | [Major Binance Hack Results in $6.3 Billion Theft, Recovery Efforts… (+7 more)](issues/2026/2026-11-01.md) |
 | 2026-10-31 | daily | [Russian UAV Strikes Disrupt Kyiv's Water and Power Supply (+7 more)](issues/2026/2026-10-31.md) |
 | 2026-10-30 | daily | [Critical Vulnerabilities in Progress WS_FTP Server Disclosed (+5 more)](issues/2026/2026-10-30.md) |
