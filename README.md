@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-04 | daily | [North Korean Hackers Steal $6.34 Billion from Binance via Fake… (+5 more)](issues/2026/2026-11-04.md) |
 | 2026-11-03 | daily | [GitLab Issues Emergency Patch for Critical RCE Vulnerability (+7 more)](issues/2026/2026-11-03.md) |
 | 2026-11-02 | daily | [Binance Hit by $6.3 Billion Cyberattack Linked to North Korea (+6 more)](issues/2026/2026-11-02.md) |
 | 2026-11-02 | weekly | [Binance Suffers $6.3 Billion Cyberattack Linked to North… (+8 more)](issues/2026/weekly-2026-11-02.md) |
