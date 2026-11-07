@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-07 | daily | [KillSec Ransomware Infrastructure Dismantled Amid Ongoing Cyber… (+5 more)](issues/2026/2026-11-07.md) |
 | 2026-11-06 | daily | [Critical PHP2Shell and LiteLLM Vulnerabilities Expose Enterprises to… (+3 more)](issues/2026/2026-11-06.md) |
 | 2026-11-05 | daily | [Ongoing Credential Abuse Campaign Targets MSPs via Microsoft Entra ID (+6 more)](issues/2026/2026-11-05.md) |
 | 2026-11-04 | daily | [North Korean Hackers Steal $6.34 Billion from Binance via Fake… (+5 more)](issues/2026/2026-11-04.md) |
