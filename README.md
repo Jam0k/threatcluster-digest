@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-09 | daily | [Vulnerability in OpenEMR Enables Remote Code Execution (+6 more)](issues/2026/2026-11-09.md) |
+| 2026-11-09 | weekly | [Vulnerability in OpenEMR Enables Remote Code Execution (+9 more)](issues/2026/weekly-2026-11-09.md) |
 | 2026-11-08 | daily | [Multiple Vulnerabilities in IBM API Connect Disclosed (+7 more)](issues/2026/2026-11-08.md) |
 | 2026-11-07 | daily | [KillSec Ransomware Infrastructure Dismantled Amid Ongoing Cyber… (+5 more)](issues/2026/2026-11-07.md) |
 | 2026-11-06 | daily | [Critical PHP2Shell and LiteLLM Vulnerabilities Expose Enterprises to… (+3 more)](issues/2026/2026-11-06.md) |
