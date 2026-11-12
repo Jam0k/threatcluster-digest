@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-12 | daily | [Critical CVE-2026-116779 in FreeSWITCH: Active Exploitation Confirmed (+5 more)](issues/2026/2026-11-12.md) |
 | 2026-11-11 | daily | [CISA Adds Six Vulnerabilities to KEV Catalog (+7 more)](issues/2026/2026-11-11.md) |
 | 2026-11-10 | daily | [Critical Chrome Vulnerabilities Require Immediate User Action (+5 more)](issues/2026/2026-11-10.md) |
 | 2026-11-09 | daily | [Vulnerability in OpenEMR Enables Remote Code Execution (+6 more)](issues/2026/2026-11-09.md) |
