@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-16 | daily | [North Korean Hackers Steal $400 Million Using Deepfakes Amid $1.2… (+6 more)](issues/2026/2026-11-16.md) |
+| 2026-11-16 | weekly | [Critical RCE Vulnerabilities in PHP Disclosed… (+11 more)](issues/2026/weekly-2026-11-16.md) |
 | 2026-11-15 | daily | [Lazarus Group Targets 30 South Korean Servers via PHP Vulnerabilities (+7 more)](issues/2026/2026-11-15.md) |
 | 2026-11-14 | daily | [AI Tool ARTEX Used in Rapid Cyberattacks by Criminals and State Actors (+7 more)](issues/2026/2026-11-14.md) |
 | 2026-11-13 | daily | [Widespread Microsoft 365 Outage Disrupts Global Services (+4 more)](issues/2026/2026-11-13.md) |
