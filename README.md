@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-19 | daily | [Global Alert Issued for Critical Java Vulnerability (+5 more)](issues/2026/2026-11-19.md) |
 | 2026-11-18 | daily | [Malicious Python Package Compromises Cloud Credentials via PyPI (+3 more)](issues/2026/2026-11-18.md) |
 | 2026-11-17 | daily | [Critical OS Command Injection Vulnerabilities in 3DEXPERIENCE… (+7 more)](issues/2026/2026-11-17.md) |
 | 2026-11-16 | daily | [North Korean Hackers Steal $400 Million Using Deepfakes Amid $1.2… (+6 more)](issues/2026/2026-11-16.md) |
