@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-22 | daily | [PHP Session File Flaw phpAfterShell (CVE-2026-126714) Enables… (+1 more)](issues/2026/2026-11-22.md) |
 | 2026-11-21 | daily | [BankWeaver Campaign Exploits Misconfigured Temenos Quantum Fabric to… (+5 more)](issues/2026/2026-11-21.md) |
 | 2026-11-20 | daily | [Critical RCE Vulnerability Disclosed in PHP's Session Upload… (+7 more)](issues/2026/2026-11-20.md) |
 | 2026-11-19 | daily | [Global Alert Issued for Critical Java Vulnerability (+5 more)](issues/2026/2026-11-19.md) |
