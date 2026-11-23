@@ -18,6 +18,8 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-23 | daily | [CISA Adds Four Exploited Flaws to KEV, Including vCenter Auth Bypass (+6 more)](issues/2026/2026-11-23.md) |
+| 2026-11-23 | weekly | [CISA Adds Four Exploited Flaws to KEV, Including vCenter… (+8 more)](issues/2026/weekly-2026-11-23.md) |
 | 2026-11-22 | daily | [PHP Session File Flaw phpAfterShell (CVE-2026-126714) Enables… (+1 more)](issues/2026/2026-11-22.md) |
 | 2026-11-21 | daily | [BankWeaver Campaign Exploits Misconfigured Temenos Quantum Fabric to… (+5 more)](issues/2026/2026-11-21.md) |
 | 2026-11-20 | daily | [Critical RCE Vulnerability Disclosed in PHP's Session Upload… (+7 more)](issues/2026/2026-11-20.md) |
