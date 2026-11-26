@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-26 | daily | [Bithumb Breach Exposes Passport Numbers and Wallet Addresses… (+7 more)](issues/2026/2026-11-26.md) |
 | 2026-11-25 | daily | [OpenResty stream-lua use-after-free flaw CVE-2026-136412 disclosed… (+7 more)](issues/2026/2026-11-25.md) |
 | 2026-11-24 | daily | [ARTEX and Similar AI Pentest Frameworks Adopted in Real Intrusions… (+6 more)](issues/2026/2026-11-24.md) |
 | 2026-11-23 | daily | [CISA Adds Four Exploited Flaws to KEV, Including vCenter Auth Bypass (+6 more)](issues/2026/2026-11-23.md) |
