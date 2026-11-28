@@ -18,6 +18,7 @@ The daily edition goes out at 06:00 UTC. The weekly edition goes out on Mondays.
 <!-- issues:start -->
 | Date | Edition | Issue |
 |---|---|---|
+| 2026-11-28 | daily | [Thai DIPROM customer portal data allegedly leaked on dark web… (+1 more)](issues/2026/2026-11-28.md) |
 | 2026-11-27 | daily | [Broadcom patches critical VMware vCenter auth bypass flaws; one (+3 more)](issues/2026/2026-11-27.md) |
 | 2026-11-26 | daily | [Bithumb Breach Exposes Passport Numbers and Wallet Addresses… (+7 more)](issues/2026/2026-11-26.md) |
 | 2026-11-25 | daily | [OpenResty stream-lua use-after-free flaw CVE-2026-136412 disclosed… (+7 more)](issues/2026/2026-11-25.md) |
